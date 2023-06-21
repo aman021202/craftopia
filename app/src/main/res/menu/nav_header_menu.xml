@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/user"
+        android:title="User"
+        android:icon="@drawable/user"/>
+
+    <item
+        android:id="@+id/yourOrder"
+        android:title="Your Order"
+        android:icon="@drawable/your_order"/>
+
+    <item
+        android:id="@+id/Become_A_Seller"
+        android:title="Become A Seller"
+        android:icon="@drawable/seller"/>
+
+</menu>
