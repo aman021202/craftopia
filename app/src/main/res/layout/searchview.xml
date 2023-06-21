@@ -37,7 +37,8 @@
         app:headerLayout="@layout/nav_header"
         app:menu="@menu/nav_header_menu"
         android:layout_gravity="start"
-        android:fitsSystemWindows="true"/>
+        android:fitsSystemWindows="true"
+        tools:ignore="MissingConstraints" />
 
 
 
