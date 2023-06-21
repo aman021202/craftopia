@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523712217643",
+    "project_id": "craftopia-master",
+    "storage_bucket": "craftopia-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523712217643:android:67e64037cf2b2e7522606e",
+        "android_client_info": {
+          "package_name": "com.example.craftopia_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523712217643-phhtid6tqf8cta4idveigp5p9mvisncn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU1c8K038s9qkiFWuND5xyP3TeJu0jneQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523712217643-phhtid6tqf8cta4idveigp5p9mvisncn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
