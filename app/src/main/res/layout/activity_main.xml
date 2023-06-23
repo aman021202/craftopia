@@ -7,6 +7,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -80,7 +81,5 @@
           app:srcCompat="@drawable/splash2" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
 
 </androidx.appcompat.widget.LinearLayoutCompat>
