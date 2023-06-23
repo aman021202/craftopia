@@ -24,7 +24,7 @@
             app:cardCornerRadius="8dp"
             app:cardElevation="12dp"
             app:cardUseCompatPadding="true"
-            app:layout_constrainedHorizontal_Bias="0.5"
+
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent">
