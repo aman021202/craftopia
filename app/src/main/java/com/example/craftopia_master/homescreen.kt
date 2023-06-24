@@ -1,5 +1,6 @@
 package com.example.craftopia_master
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import android.view.MenuItem
 import android.widget.Toast
@@ -11,6 +12,7 @@ import com.google.android.material.navigation.NavigationView
 class homescreen : AppCompatActivity() {
 
     lateinit var toggle: ActionBarDrawerToggle
+    @SuppressLint("MissingInflatedId")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.homescreen)
